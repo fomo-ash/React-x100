@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-      <h1 > Talwind Test</h1>
+      <h1>Talwind Test</h1>
     </>
   )
 }
